@@ -1,0 +1,7 @@
+[
+    {"productId":101,"productName":"cetaphil","productCategory":"skinCare","quantity":"30","price":100},
+    {"productId":102,"productName":"aveeno","productCategory":"skinCare","quantity":"100","price":200},
+    {"productId":103,"productName":"cerave","productCategory":"skinCare","quantity":"200","price":300},
+    {"productId":104,"productName":"j&j","productCategory":"skinCare","quantity":"50","price":500},
+    {"productId":105,"productName":"himalaya","productCategory":"skinCare","quantity":"140","price":150}
+]

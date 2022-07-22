@@ -1,0 +1,20 @@
+<br>
+
+<h3>PRODUCT Table Component</h3>
+<br>
+<table class="table table-striped">
+    <tr>
+        <th>Product Id</th>
+        <th>Product Name</th>
+        <th>Product Category</th>
+        <th>Product Quantity</th>
+    <th>Product price</th>
+    </tr>
+    <tr *ngFor= "let prd of products">
+    <td> {{prd.productId}}</td>
+    <td>{{prd.productName}}</td>
+    <td>{{prd.productCategory}}</td>
+    <td>{{prd.quantity}}</td>
+    <td>{{prd.price}}</td>
+</table>
+

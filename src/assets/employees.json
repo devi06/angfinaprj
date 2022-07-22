@@ -1,0 +1,7 @@
+[
+    {"empId":101,"empName":"John","empSal":3000,"empDesignation":"SSE","empImg":"assets/keerty.jpg"},
+    {"empId":102,"empName":"Sam","empSal":5000,"empDesignation":"SSE","empImg":"assets/keerty.jpg"},
+    {"empId":103,"empName":"Ram","empSal":7000,"empDesignation":"Director","empImg":"assets/keerty.jpg"},
+    {"empId":104,"empName":"Alex","empSal":2000,"empDesignation":"SSE","empImg":"assets/keerty.jpg"},
+    {"empId":105,"empName":"Lakshmi","empSal":9000,"empDesignation":"VP","empImg":"assets/keerty.jpg"}
+]

@@ -1,0 +1,14 @@
+<h3>Employees Cards Component</h3>
+<div class="row">
+<div class="col-sm-2" *ngFor= "let emp of employees">
+<div class="card" style="width: 18rem;">
+    <img [src]="emp.empImg" class="card-img-top" alt="...">
+    <div class="card-body">
+      Id : {{emp.empId}}<br>
+      Name : {{emp.empName}}<br>
+      Salary : {{emp.empSal | currency}}<br>
+      Designation : {{emp.empDesignation | titlecase}}
+    </div>
+  </div>
+  </div>
+  </div>
